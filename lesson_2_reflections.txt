@@ -1,2 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 it creates a .git.   to set up the repository for business
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+the working directory is where the files reside, the staging area is where file await committing, and the repository is where they are after committing
+
