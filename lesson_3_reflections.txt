@@ -3,3 +3,6 @@ for a small change like this one
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 easier and keeps code on the repository 100% up to date
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are like clones but on GitHub only.  Clones are copies of repositories.  Branches are the same repository but another pathway.
