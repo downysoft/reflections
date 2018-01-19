@@ -12,3 +12,6 @@ a release is not shown to the public before it should be
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 you would have to manually share files.  it would be easier for conflicts, maybe, but harder to share.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+when you are unsure that you want to keep the changes or are collaberating.
