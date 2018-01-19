@@ -10,4 +10,5 @@ Forks are like clones but on GitHub only.  Clones are copies of repositories.  B
 What is the benefit of having a copy of the last known state of the remote stored locally?
 a release is not shown to the public before it should be
 
-
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+you would have to manually share files.  it would be easier for conflicts, maybe, but harder to share.
